@@ -1,6 +1,6 @@
 FROM tomcat:8.0.20-jre8
 #### Good stuff
-## jesus is Lord
+## May Allah ease my affairs
 # thanks team
-# This is great  jentins is getting interested
+# This is great  jenkins is getting interested
 COPY target/*.war /usr/local/tomcat/webapps/maven-web-app.war
